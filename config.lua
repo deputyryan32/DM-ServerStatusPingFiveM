@@ -1,5 +1,3 @@
--- Configuration file for DM-ServerStatusPingFiveM
-
 Config = {}
 
 -- Endpoint URL for the status logger (e.g., BetterStack)

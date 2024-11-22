@@ -1,14 +1,13 @@
-fxmanifest.lua
 fx_version 'cerulean'
 game 'gta5'
 
-lua54 'yes'
+lua54 'yes' -- Enable Lua 5.4
 
 author 'DeputyRyan-DeputyMods'
 description 'DM-ServerStatusPingFiveM: Sends periodic pings to a status logger endpoint like BetterStack.'
-version '1.0'
+version '1.0.0'
 
-server_script {
+server_scripts {
     'config.lua',
     'server.lua'
 }
